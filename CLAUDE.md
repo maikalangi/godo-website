@@ -34,7 +34,7 @@ This document is the master context brief for building and evolving the GoDo LLC
 **Business Model:** Subscription-based General Home Preventative Maintenance  
 **Domain:** [www.godollc.com](http://www.godollc.com)  
 **Email:** [contact@godollc.com](mailto:contact@godollc.com)  
-**Address:** 671 Spumante Ln, Manteca, CA 95337  
+**Address:** Manteca, CA 95337
 **License:** California General B Contractor — CSLB \#1148177  
 **Trademark:** U.S. Application Serial No. 99493597 (pending)
 
@@ -358,7 +358,7 @@ Every page (at minimum, footer) must display:
 
 - **CSLB License \#1148177** (California Contractors State License Board)  
 - **General Liability Insured** (carrier: John Williams Agency / Farmers Insurance)  
-- Business address: 671 Spumante Ln, Manteca, CA 95337  
+- Business address: Manteca, CA 95337  
 - Contact: [contact@godollc.com](mailto:contact@godollc.com)
 
 The Pricing and Request pages should also display:
