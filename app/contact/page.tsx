@@ -50,7 +50,6 @@ export default function ContactPage() {
                 <div>
                   <dt className="font-body font-semibold text-navy mb-0.5">Address</dt>
                   <dd className="text-gray-600">
-                    671 Spumante Ln<br />
                     Manteca, CA 95337
                   </dd>
                 </div>
