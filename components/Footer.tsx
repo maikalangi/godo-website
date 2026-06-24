@@ -35,7 +35,7 @@ export default function Footer() {
             <div className="space-y-1 text-sm">
               <p className="text-white font-semibold">CSLB License #1148177</p>
               <p className="text-white/60">General Liability Insured</p>
-              <p className="text-white/60">671 Spumante Ln, Manteca, CA 95337</p>
+              <p className="text-white/60">Manteca, CA 95337</p>
               <a href="mailto:contact@godollc.com" className="text-orange hover:text-white transition-colors">
                 contact@godollc.com
               </a>
